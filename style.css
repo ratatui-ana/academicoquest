@@ -76,3 +76,6 @@
 .source-lab input{accent-color:#2b69b7;margin-top:3px;flex:none;width:15px;height:15px}
 .source-lab .lab-footnote{font-size:10px;color:#6c7c93;margin-top:16px}
 @media(max-width:600px){.source-lab{padding:13px}.source-lab fieldset{padding:10px}}
+
+/* v4.2: galeria de estilos da Página Inicial e níveis do sumário */
+.styles-group{gap:5px;min-width:315px;align-items:flex-start}.styles-group .style-picker{min-width:69px;padding:5px 6px}.styles-group .structure-picker{min-width:83px}.styles-group .structure-picker b{font-size:17px}.style-picker.active{background:#dceaff;border-color:#7aa3ed;box-shadow:inset 0 0 0 1px #9ebcf5}.styles-group .group-label{letter-spacing:.02em}
